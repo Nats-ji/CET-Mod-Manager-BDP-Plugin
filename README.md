@@ -1,5 +1,5 @@
 # CybeerEngineTweaks Mod Manager BraindanceProtocol Plugin
-A set of lua script to run Braindance Protocol directly from CET Mod Manager
+A set of lua scripts to run Braindance Protocol directly from CET Mod Manager
 
 ## Install
 
